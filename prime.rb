@@ -1,4 +1,10 @@
-
+def is_prime?(num)
+if num % 2 != 0
+return true
+else
+return false
+end
+end
 
  # all_odd = true
 #[1,2,3].each do |number|
