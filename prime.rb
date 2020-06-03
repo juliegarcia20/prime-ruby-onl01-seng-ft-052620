@@ -1,11 +1,3 @@
-def prime?(n)
-  n = -1
-if (n).nonzero? 
-  return true
-else
-  return false
-  end 
-end
 
 n=int(input("Enter an integer:"))
 def is_prime(n):
